@@ -1,0 +1,16 @@
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.exe
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.deps.json
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.runtimeconfig.json
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.runtimeconfig.dev.json
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.dll
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\ref\sample_file.dll
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\bin\Debug\net5.0\sample_file.pdb
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.csproj.AssemblyReference.cache
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.AssemblyInfoInputs.cache
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.AssemblyInfo.cs
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.csproj.CoreCompileInputs.cache
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.dll
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\ref\sample_file.dll
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.pdb
+C:\Users\Camela Kim Arcalas\source\repos\sample_file\sample_file\obj\Debug\net5.0\sample_file.genruntimeconfig.cache
